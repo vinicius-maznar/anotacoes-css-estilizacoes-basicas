@@ -9,7 +9,7 @@ Repositório de exemplo com códigos e recursos para iniciantes em desenvolvimen
 4. [Cores Hexadecimais](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/04-cores-hexadecimais.md)
 5. [Cores HSL e HSLA](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/05-cores-hsl-e-hsla.md)
 6. [Propriedade 'Object-fit'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/06-object-fit-propriedade.md)
-7. []()
+7. [Propriedade 'Object-position'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/07-object-position-propriedade.md)
 8. []()
 9. []()
 10. []()
