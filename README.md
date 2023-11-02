@@ -21,5 +21,5 @@ Repositório de exemplo com códigos e recursos para iniciantes em desenvolvimen
 16. [Propriedade Background: Resumo](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/16-propriedade-background-resumo.md)
 17. [Tamanho da Borda](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/17-tamanho-da-borda.md)
 18. [Estilo da Borda](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/18-estilo-da-borda.md)
-19. []()
+19. [Cor da Borda](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/19-cor-da-borda.md)
 20.  
