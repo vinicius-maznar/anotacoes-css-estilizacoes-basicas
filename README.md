@@ -16,7 +16,7 @@ Repositório de exemplo com códigos e recursos para iniciantes em desenvolvimen
 11. [Posicionando Imagens de Fundo dos Elementos](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/10-repeticao-da-imagem-de-fundo-de-um-elemento.md)
 12. [Background Attachment](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/12-posicionando-imagens-de-fundo-dos-elementos.md)
 13. [Background Origin](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/13-background-origin.md)
-14. []()
+14. [Background Clip](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/14-background-clip.md)
 15. []()
 16. []()
 17. []()
