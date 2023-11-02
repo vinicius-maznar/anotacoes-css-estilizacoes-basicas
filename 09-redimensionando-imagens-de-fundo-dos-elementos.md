@@ -1,4 +1,4 @@
-# Redimensionando Imagens de Fundo em CSS
+# 📏📐 Redimensionando Imagens de Fundo em CSS
 
 ## 🖼️ O que é Redimensionar Imagens de Fundo?
 - Redimensionar imagens de fundo refere-se a ajustar o tamanho das imagens usadas como fundo de elementos HTML, como divs e seções.
