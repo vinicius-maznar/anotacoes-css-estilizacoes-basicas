@@ -1,4 +1,4 @@
-# Propriedade `object-position` em CSS
+# 🧩 Propriedade `object-position` em CSS
 
 ## 🌍 O que é `object-position`?
 - `object-position` é uma propriedade CSS que permite controlar a posição do conteúdo de mídia, como imagens ou vídeos, dentro de seu contêiner.
@@ -10,6 +10,9 @@
 
 ## 🌆 Exemplo de Uso
 - Um exemplo de uso da propriedade `object-position` pode ser:
+
+📌
+
   ```css
   .imagem {
     width: 300px;
@@ -18,6 +21,8 @@
     object-position: center top;
   }
    ```
+
+📌
 
 ## 🖌🎨 Aplicações
 - `object-position` é útil quando você precisa controlar a posição específica do conteúdo de mídia dentro do contêiner, ajustando a visualização da imagem ou vídeo.
