@@ -11,7 +11,7 @@ Repositório de exemplo com códigos e recursos para iniciantes em desenvolvimen
 6. [Propriedade 'Object-fit'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/06-object-fit-propriedade.md)
 7. [Propriedade 'Object-position'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/07-object-position-propriedade.md)
 8. [Alterando o Fundo dos Elementos](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/08-alterando-o-fundo-dos-elementos.md)
-9. []()
+9. [Redimensionando Imagens de Fundo dos Elementos](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/09-redimensionando-imagens-de-fundo-dos-elementos.md)
 10. []()
 11. []()
 12. []()
