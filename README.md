@@ -19,7 +19,7 @@ Repositório de exemplo com códigos e recursos para iniciantes em desenvolvimen
 14. [Background Clip](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/14-background-clip.md)
 15. [Mesclagem](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/15-mesclagem.md)
 16. [Propriedade Background: Resumo](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/16-propriedade-background-resumo.md)
-17. []()
+17. [Tamanho da Borda](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/17-tamanho-da-borda.md)
 18. []()
 19. []()
 20.  
