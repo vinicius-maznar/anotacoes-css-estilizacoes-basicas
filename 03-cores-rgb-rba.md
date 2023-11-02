@@ -1,4 +1,4 @@
-# RGB e RGBA em CSS
+# 🎨 RGB e RGBA em CSS
 
 ## ⁉ O que é RGB?
 - RGB é uma abreviação de Red (Vermelho), Green (Verde) e Blue (Azul).
