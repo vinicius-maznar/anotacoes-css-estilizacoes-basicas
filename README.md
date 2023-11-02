@@ -13,7 +13,7 @@ Repositório de exemplo com códigos e recursos para iniciantes em desenvolvimen
 8. [Alterando o Fundo dos Elementos](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/08-alterando-o-fundo-dos-elementos.md)
 9. [Redimensionando Imagens de Fundo dos Elementos](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/09-redimensionando-imagens-de-fundo-dos-elementos.md)
 10. [Repetindo Imagens de Fundo dos Elementos](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/10-repeticao-da-imagem-de-fundo-de-um-elemento.md)
-11. []()
+11. [Posicionando Imagens de Fundo dos Elementos](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/10-repeticao-da-imagem-de-fundo-de-um-elemento.md)
 12. []()
 13. []()
 14. []()
