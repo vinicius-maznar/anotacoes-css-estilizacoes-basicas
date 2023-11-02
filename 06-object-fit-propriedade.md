@@ -1,4 +1,4 @@
-# `object-fit` em CSS
+# 🧩 `object-fit` em CSS
 
 ## 🖼️ O que é `object-fit`?
 - `object-fit` é uma propriedade CSS que controla como uma imagem ou vídeo é ajustado dentro de seu contêiner.
