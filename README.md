@@ -24,7 +24,7 @@ Repositório de exemplo com códigos e recursos para iniciantes em desenvolvimen
 19. [Cor da Borda](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/19-cor-da-borda.md)
 20. [Propriedade 'Border'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/20-propriedade-border.md)
 21. [Arredondando Cantos com a Propriedade 'Border Radius'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/20-propriedade-border.md)
-22. []()
+22. [Propriedade 'Border Image Source'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/22-border-image-source.md)
 23. []()
 24. []()
 25. []()
