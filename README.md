@@ -42,4 +42,4 @@ Repositório de exemplo com códigos e recursos para iniciantes em desenvolvimen
 37. [Propriedade 'Text-Align'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/37-text-align.md)
 38. [Propriedade 'Text-Decoration'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/38-text-decoration.md)
 39. [Propriedade 'Text-Indent'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/38-text-decoration.md)
-40. []() 
+40. [Propriedade 'Letter-Spacing'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/40-letter-spacing.md) 
