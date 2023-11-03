@@ -31,7 +31,7 @@ Repositório de exemplo com códigos e recursos para iniciantes em desenvolvimen
 26. [Propriedade 'Border Image Outset'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/26-border-image-outset.md)
 27. [Onde Encontrar Fontes Personalizadas](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/27-onde-econtrar-fontes-personalizadas.md)
 28. [Regra '@Font-Face'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/28-regra-font-face.md)
-29. []()
+29. [Regra '@Import'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/29-regra-import.md)
 30. []()
 31. []()
 32. []()
