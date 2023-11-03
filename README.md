@@ -48,7 +48,7 @@ Repositório de exemplo com códigos e recursos para iniciantes em desenvolvimen
 43. [Propriedade 'Word-Wrap'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/43-word-wrap.md)
 44. [Propriedade 'Word-Break'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/44-word-break.md)
 45. [Propriedade 'Writing-Mode'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/45-writing-mode.md)
-46. []()
+46. [Propriedade 'Text-Overflow'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/46-text-overflow.md)
 47. []()
 48. []()
 49. []()
