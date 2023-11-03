@@ -49,7 +49,7 @@ Repositório de exemplo com códigos e recursos para iniciantes em desenvolvimen
 44. [Propriedade 'Word-Break'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/44-word-break.md)
 45. [Propriedade 'Writing-Mode'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/45-writing-mode.md)
 46. [Propriedade 'Text-Overflow'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/46-text-overflow.md)
-47. []()
+47. [Aplicando Sombra aos Elementos](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/47-text-overflow.md)
 48. []()
 49. []()
 50. []()
