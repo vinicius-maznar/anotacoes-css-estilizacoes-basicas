@@ -33,7 +33,7 @@ Repositório de exemplo com códigos e recursos para iniciantes em desenvolvimen
 28. [Regra '@Font-Face'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/28-regra-font-face.md)
 29. [Regra '@Import'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/29-regra-import.md)
 30. [Propriedade 'Font-Size'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/30-font-size.md)
-31. []()
+31. [Propriedade 'Font-Style'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/31-font-style.md)
 32. []()
 33. []()
 34. []()
