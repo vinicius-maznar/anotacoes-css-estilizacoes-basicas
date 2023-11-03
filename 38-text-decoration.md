@@ -1,4 +1,4 @@
-3# 🥻📝 Propriedade `text-decoration` em CSS
+# 🥻📝 Propriedade `text-decoration` em CSS
 
 ## ⁉ O que é a Propriedade `text-decoration`?
 - A propriedade `text-decoration` em CSS é usada para controlar a decoração de texto, como sublinhado, riscado, sublinhado e riscado, e linhagem.
