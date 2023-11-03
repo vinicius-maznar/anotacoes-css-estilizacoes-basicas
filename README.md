@@ -26,7 +26,7 @@ Repositório de exemplo com códigos e recursos para iniciantes em desenvolvimen
 21. [Arredondando Cantos com a Propriedade 'Border Radius'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/20-propriedade-border.md)
 22. [Propriedade 'Border Image Source'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/22-border-image-source.md)
 23. [Propriedade 'Border Image Slice'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/22-border-image-source.md)
-24. []()
+24. [Propriedade 'Border Image Width'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/24-border-image-width.md)
 25. []()
 26. []()
 27. []()
