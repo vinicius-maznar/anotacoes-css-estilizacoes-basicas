@@ -45,7 +45,7 @@ Repositório de exemplo com códigos e recursos para iniciantes em desenvolvimen
 40. [Propriedade 'Letter-Spacing'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/40-letter-spacing.md)
 41. [Propriedade 'Word-Spacing'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/41-word-spacing.md)
 42. [Propriedade 'White-Space'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/42-white-space.md)
-43. []()
+43. [Propriedade 'Word-Wrap'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/43-word-wrap.md)
 44. []()
 45. []()
 46. []()
