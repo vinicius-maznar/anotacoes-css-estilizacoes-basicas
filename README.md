@@ -32,7 +32,7 @@ Repositório de exemplo com códigos e recursos para iniciantes em desenvolvimen
 27. [Onde Encontrar Fontes Personalizadas](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/27-onde-econtrar-fontes-personalizadas.md)
 28. [Regra '@Font-Face'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/28-regra-font-face.md)
 29. [Regra '@Import'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/29-regra-import.md)
-30. []()
+30. [Propriedade 'Font-Size'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/30-font-size.md)
 31. []()
 32. []()
 33. []()
