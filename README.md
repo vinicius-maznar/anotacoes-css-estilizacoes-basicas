@@ -40,6 +40,6 @@ Repositório de exemplo com códigos e recursos para iniciantes em desenvolvimen
 35. [Propriedade 'Line-Height'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/34-font-stretch.md)
 36. [Propriedade 'Text-Transform'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/36-text-transform.md)
 37. [Propriedade 'Text-Align'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/37-text-align.md)
-38. []()
+38. [Propriedade 'Text-Decoration'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/38-text-decoration.md)
 39. []()
 40. []() 
