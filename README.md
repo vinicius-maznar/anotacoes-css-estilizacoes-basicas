@@ -51,5 +51,5 @@ Repositório de exemplo com códigos e recursos para iniciantes em desenvolvimen
 46. [Propriedade 'Text-Overflow'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/46-text-overflow.md)
 47. [Aplicando Sombra aos Elementos](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/47-text-overflow.md)
 48. [Aplicando Sombra aos Textos](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/48-aplicando-sombra-em-textos.md)
-49. []()
+49. [Aplicando Transparência aos Elementos](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/49-aplicando-transparencia-nos-elementos.md)
 50. []()
