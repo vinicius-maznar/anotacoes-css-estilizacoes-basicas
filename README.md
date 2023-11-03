@@ -38,7 +38,7 @@ Repositório de exemplo com códigos e recursos para iniciantes em desenvolvimen
 33. [Propriedade 'Font-Variant'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/33-font-variant.md)
 34. [Propriedade 'Font-Stretch'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/33-font-variant.md)
 35. [Propriedade 'Line-Height'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/34-font-stretch.md)
-36. []()
+36. [Propriedade 'Text-Transform'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/36-text-transform.md)
 37. []()
 38. []()
 39. []()
