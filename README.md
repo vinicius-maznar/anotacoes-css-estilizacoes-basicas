@@ -35,7 +35,7 @@ Repositório de exemplo com códigos e recursos para iniciantes em desenvolvimen
 30. [Propriedade 'Font-Size'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/30-font-size.md)
 31. [Propriedade 'Font-Style'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/31-font-style.md)
 32. [Propriedade 'Font-Weight'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/32-font-weight.md)
-33. []()
+33. [Propriedade 'Font-Variant'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/33-font-variant.md)
 34. []()
 35. []()
 36. []()
