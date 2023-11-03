@@ -29,7 +29,7 @@ Repositório de exemplo com códigos e recursos para iniciantes em desenvolvimen
 24. [Propriedade 'Border Image Width'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/24-border-image-width.md)
 25. [Propriedade 'Border Image Repeat'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/25-border-image-repeat.md)
 26. [Propriedade 'Border Image Outset'](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/26-border-image-outset.md)
-27. []()
+27. [Onde Encontrar Fontes Personalizadas](https://github.com/vinicius-maznar/anotacoes-css-estilizacoes-basicas/blob/main/27-onde-econtrar-fontes-personalizadas.md)
 28. []()
 29. []()
 30. []()
